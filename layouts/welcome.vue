@@ -36,15 +36,23 @@
 <script setup lang="ts">
 const images = ref([
   {
-    src: "https://i.ytimg.com/vi/dKmQHIl70Bc/maxresdefault.jpg",
+    src: "/welcomes/ebd1.jpg",
     link: false,
   },
   {
-    src: "https://i.ytimg.com/vi/dKmQHIl70Bc/maxresdefault.jpg",
+    src: "/welcomes/ebd2.jpg",
     link: false,
   },
   {
-    src: "https://i.ytimg.com/vi/dKmQHIl70Bc/maxresdefault.jpg",
+    src: "/welcomes/ebd3.jpg",
+    link: false,
+  },
+  {
+    src: "/welcomes/ebd4.jpg",
+    link: false,
+  },
+  {
+    src: "/welcomes/ebd6.jpg",
     link: true,
   },
 ]);
