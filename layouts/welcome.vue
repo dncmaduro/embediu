@@ -77,8 +77,15 @@ const images = ref([
   background: #fff;
 
   img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 80%;
+  }
+
+  a {
+    width: 80%;
+
+    img {
+      width: 100%;
+    }
   }
 }
 </style>
